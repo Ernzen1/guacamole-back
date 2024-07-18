@@ -1,2 +1,2 @@
 # guacamole-back
-tacos is good with guacamole
+tacos are good with guacamole
